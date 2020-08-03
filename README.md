@@ -20,3 +20,6 @@ davinci 的一键启动版本，不会出现启动报错， Maven导包出错，
 
 微信公众号： ucisoft
 知乎搜索：Andot、蚁点
+
+如果下载慢可以使用Gitee
+https://gitee.com/antsdot/davinci-boot.git
