@@ -77,7 +77,7 @@
     "lodash": "4.17.13",
     "memoize-one": "^5.0.0",
     "minimist": "1.2.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "prop-types": "15.6.2",
     "quill-image-resize-module": "^3.0.0",
     "rc-animate": "^2.4.1",
