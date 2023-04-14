@@ -23,3 +23,7 @@ davinci 的一键启动版本，不会出现启动报错， Maven导包出错，
 
 如果下载慢可以使用Gitee
 https://gitee.com/antsdot/davinci-boot.git
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=andotorg/davinci-boot&type=Date)](https://star-history.com/#andotorg/davinci-boot&Date)
