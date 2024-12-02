@@ -76,7 +76,7 @@
     "ip": "1.1.5",
     "lodash": "4.17.13",
     "memoize-one": "^5.0.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.6",
     "moment": "^2.22.2",
     "prop-types": "15.6.2",
     "quill-image-resize-module": "^3.0.0",
